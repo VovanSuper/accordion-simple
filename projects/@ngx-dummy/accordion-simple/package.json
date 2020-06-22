@@ -40,7 +40,7 @@
     "rxjs": "~6.5.5"
   },
   "devDependencies": {
-    "@types/lodash": "^4.14.155",
-    "typescript": "~3.8.3"
+    "@types/lodash": "4.14.153",
+    "typescript": "3.8.3"
   }
 }
