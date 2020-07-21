@@ -116,7 +116,7 @@
     "protractor": "^7.0.0",
     "rimraf": "^3.0.2",
     "shelljs": "^0.8.4",
-    "simple-git": "^2.13.2",
+    "simple-git": "^2.14.0",
     "ts-node": "^8.10.2",
     "tslint": "^6.1.2",
     "typedoc": "^0.17.8",
