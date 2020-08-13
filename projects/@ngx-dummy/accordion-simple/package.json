@@ -52,6 +52,6 @@
     "rxjs": "~6.6.2"
   },
   "devDependencies": {
-    "typescript": "~3.9.7"
+    "typescript": "3.9.7"
   }
 }
