@@ -45,10 +45,10 @@
     "build": "ng b"
   },
   "peerDependencies": {
-    "@angular/common": "9.x || 10.x",
-    "@angular/core": "9.x || 10.x",
-    "@angular/animations": "9.x || 10.x",
-    "@angular/platform-browser": "9.x || 10.x",
+    "@angular/common": "9.x || 10.x || 11.x",
+    "@angular/core": "9.x || 10.x || 11.x",
+    "@angular/animations": "9.x || 10.x || 11.x",
+    "@angular/platform-browser": "9.x || 10.x || 11.x",
     "rxjs": "~6.6.2"
   },
   "devDependencies": {
