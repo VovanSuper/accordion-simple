@@ -86,7 +86,7 @@
     "@material/ripple": "^7.0.0",
     "@material/top-app-bar": "^7.0.0",
     "lodash": "^4.17.20",
-    "rxjs": "^6.6.2",
+    "rxjs": "^6.6.6",
     "tslib": "^2.0.1",
     "zone.js": "^0.11.1"
   },
