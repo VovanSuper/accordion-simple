@@ -75,14 +75,14 @@
 		"release": "sh ./scripts/release.sh"
 	},
 	"dependencies": {
-		"@angular/animations": "^12.0.2",
-		"@angular/common": "^12.0.2",
-		"@angular/compiler": "^12.0.2",
-		"@angular/core": "^12.0.2",
-		"@angular/forms": "^12.0.2",
-		"@angular/platform-browser": "^12.0.2",
-		"@angular/platform-browser-dynamic": "^12.0.2",
-		"@angular/router": "^12.0.2",
+		"@angular/animations": "12.0.2",
+		"@angular/common": "12.0.2",
+		"@angular/compiler": "12.0.2",
+		"@angular/core": "12.0.2",
+		"@angular/forms": "12.0.2",
+		"@angular/platform-browser": "12.0.2",
+		"@angular/platform-browser-dynamic": "12.0.2",
+		"@angular/router": "12.0.2",
 		"@material/button": "^11.0.0",
 		"@material/card": "^11.0.0",
 		"@material/drawer": "^11.0.0",
@@ -93,7 +93,7 @@
 		"@material/top-app-bar": "^11.0.0",
 		"rxjs": "^7.1.0",
 		"tslib": "^2.2.0",
-		"zone.js": "~0.11.4"
+		"zone.js": "0.11.4"
 	},
 	"devDependencies": {
 		"@angular-devkit/architect": "^0.1200.2",
@@ -105,8 +105,8 @@
 		"@angular-eslint/schematics": "12.0.0",
 		"@angular-eslint/template-parser": "12.0.0",
 		"@angular/cli": "^12.0.2",
-		"@angular/compiler-cli": "^12.0.2",
-		"@angular/language-service": "^12.0.2",
+		"@angular/compiler-cli": "12.0.2",
+		"@angular/language-service": "12.0.2",
 		"@types/jasmine": "^3.7.6",
 		"@types/jasminewd2": "^2.0.9",
 		"@types/node": "^14.14.37",
