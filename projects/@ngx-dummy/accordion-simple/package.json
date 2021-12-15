@@ -46,10 +46,10 @@
 		"build": "ng b"
 	},
 	"peerDependencies": {
-		"@angular/common": "12.x",
-		"@angular/core": "12.x",
-		"@angular/animations": "12.x",
-		"@angular/platform-browser": "12.x",
+		"@angular/common": "12.x || 13.x",
+		"@angular/core": "12.x || 13.x",
+		"@angular/animations": "12.x || 13.x",
+		"@angular/platform-browser": "12.x || 13.x",
 		"rxjs": "^7.1.0"
 	},
 	"devDependencies": {
