@@ -44,7 +44,7 @@ jobs:
         npm ci
         npm run build:sample --if-present
     - name: Make a drop
-      uses: actions/upload-artifact@v1
+      uses: actions/upload-artifact@v2
       with:
         name: drop
         path: dist/accordion-sample
